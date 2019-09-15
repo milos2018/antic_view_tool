@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1c812cd-d4f7-4c3e-a7d9-7e52906776aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/antic_view_tool.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/antic_view_tool.gemspec" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568547684571</updated>
-      <workItem from="1568547686235" duration="1874000" />
+      <workItem from="1568547686235" duration="2293000" />
     </task>
     <servers />
   </component>
