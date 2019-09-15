@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install antic_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+AnticViewTool::Render.copyright('Milos Antic', 'All rights reserved')
+```
 
 ## Development
 
